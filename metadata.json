@@ -1,0 +1,8 @@
+{
+  "name": "PeerConnect Video Call",
+  "description": "A simple and elegant video and audio calling application using PeerJS and React. Share your ID to connect with others in real-time.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
